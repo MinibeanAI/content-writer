@@ -62,4 +62,4 @@
 
 ## License
 
-MIT License - Copyright (c) 2026 aijindouhua 孙小豆
+MIT License - Copyright (c) 2026 MinibeanAI(孙小豆)
