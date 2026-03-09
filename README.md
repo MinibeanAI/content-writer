@@ -1,6 +1,6 @@
 # content-writer
 
-自媒体文章写作助手 - OpenClaw Skill
+自媒体文章写作助手 - Skill
 
 ## 功能 (Features)
 
